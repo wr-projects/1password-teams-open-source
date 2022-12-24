@@ -38,9 +38,9 @@ jobs:
 
       # More info: https://github.com/rovast/sync-upstream-repo/.
       - name: GitHub Sync to Upstream Repository
-        uses: rovast/sync-upstream-repo@c90f27f86cd67d3f83899cd52311a3d739efb235
+        uses: repo-sync/github-sync@3832fe8e2be32372e1b3970bbae8e7079edeec88
         with:
-          upstream_repo: https://github.com/1Password/1password-teams-open-source
-          upstream_branch: main
-          downstream_branch: main
-          token: ${{ steps.get_token.outputs.token }}
+          source_repo: https://github.com/1Password/1password-teams-open-source
+          source_branch: main
+          destination_branch: main
+          github_token: ${{ steps.get_token.outputs.token }}
