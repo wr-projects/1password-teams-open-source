@@ -23,6 +23,7 @@ jobs:
       - name: Checkout & Authentication
         uses: actions/checkout@93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8
         with:
+          repository: wr-projects/1password-teams-open-source
           token: ${{ steps.get_token.outputs.token }}
           persist-credentials: false
       
@@ -34,6 +35,8 @@ jobs:
 
       # More info: https://github.com/rovast/sync-upstream-repo/.
       - name: GitHub Sync to Upstream Repository
-        uses: rovast/sync-upstream-repo@c90f27f86cd67d3f83899cd52311a3d739efb235
+        uses: denis-tingajkin/sync-files@7cf3a71d4530214ecee324faf12cf884a275d366
         with:
-          upstream_repo: https://github.com/1Password/1password-teams-open-source
+          git-author-email: ${{ secrets.AUTOSYNCHRO_CI_EMAIL }}
+          git-author-name: ${{ secrets.AUTOSYNCHRO_CI_NAME }}
+          src-repository: https://github.com/1Password/1password-teams-open-source
