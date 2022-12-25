@@ -32,13 +32,13 @@ jobs:
       - name: User Name GitHub Actions
         run: git config user.name "121386770+auto-synchronization-bot[bot]@users.noreply.github.com"
       
-      #- name: Enable GPG
-      #  uses: cresh-io/action-gpg@69c283c829f9f89f282f110f705db67a2b263777
-      #  with:
-      #    gpg-passphrase: ${{ secrets.AUTOSYNCHRO_CI_GPG_PASS}}
-      #    gpg-sign-key: ${{ secrets.AUTOSYNCHRO_CI_GPG_KEY }}
-      #    git-email: ${{ secrets.AUTOSYNCHRO_CI_EMAIL }}
-      #    git-username: ${{ secrets.AUTOSYNCHRO_CI_NAME }}
+      - name: Enable GPG
+        uses: cresh-io/action-gpg@69c283c829f9f89f282f110f705db67a2b263777
+        with:
+          gpg-passphrase: ${{ secrets.AUTOSYNCHRO_CI_GPG_PASS }}
+          gpg-sign-key: ${{ secrets.AUTOSYNCHRO_CI_GPG_KEY }}
+          git-email: ${{ secrets.AUTOSYNCHRO_CI_EMAIL }}
+          git-username: ${{ secrets.AUTOSYNCHRO_CI_NAME }}
 
       # More info: https://github.com/rovast/sync-upstream-repo/.
       - name: GitHub Sync to Upstream Repository
