@@ -1497,7 +1497,7 @@ https://opentelemetry.io/
 ### OpenFeature
 
 An open standard for feature flag management.
-https:/openfeature.dev/
+https://openfeature.dev/
 
 ### Botanit(ism)
 
@@ -2765,3 +2765,55 @@ https://github.com/monicahq/monica
 ### Django Custom User
 
 [django-custom-user](https://github.com/jcugat/django-custom-user) is a custom user model for Django with the same behaviour as the default User class but without a username field.
+
+### SonicSpin
+
+[SonicSpin](https://github.com/sonicspinforum) is a community which creates tons of Sonic community related tools and serves everyone.
+
+### Shopware backend servers
+
+Libraries to write backend servers for Shopware apps.
+https://github.com/janbuecker/shopware-appserver-go
+
+### Angelbotics
+[Angelbotics](https://angelbotics.org) exists to advance the education of high school students in the areas of science, technology, engineering and mathematics (STEM), by preparing for and participating in FIRST Robotics competitions, and by providing opportunities to serve in their community. These activities help them build skills and confidence far beyond the classroom, to include teamwork, interpersonal skills, technical knowledge, personal responsibility, leadership, and gracious professionalism.
+
+### Cake
+
+[Cake](https://cakebuild.net) (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
+
+### Mastodon pro
+
+is providing hosting services for the decentralized, open-source social network [Mastodon](https://joinmastodon.org), that puts users in control of their data and communication.
+<https://github.com/mastodonpro>
+
+### DDEV
+Docker-based local development environment for web developers
+https://github.com/drud/ddev
+
+### OpenMW
+
+[OpenMW](https://openmw.org/) is an open-source open-world RPG game engine that supports playing Morrowind by Bethesda Softworks.
+
+### Magento Open Source
+
+[Magento Open Source](https://github.com/magento/magento2) delivers basic eCommerce capabilities to build a unique online store from the ground up.
+
+### paper-to-git
+[Paper-to-git](https://github.com/maxking/paper-to-git) is an open source application to synchronize Dropbox paper using its API with a local Git repo. It allows users to also use a small webapp to browser their documents locally.
+
+### Talishar
+[Talishar](https://talishar.net/) is an open-source, fan made project to allow fans of the Flesh and Blood trading card game to play online in their browser. It is an unofficial fan-made project not affiliated with, nor endorsed by Legend Story Studios.
+
+### probe-rs
+[probe-rs](https://probe.rs) is a modern, embedded debugging toolkit, written in Rust.
+
+### IntellectualSites
+[IntellectualSites](https://github.com/IntellectualSites) is a Minecraft Software organization focusing on the development of map editors, world management plugins and other tools. Our software powers 30,000 servers for more than 60,000 people worldwide.
+
+### Sun Devil Rocketry
+[Sun Devil Rocketry](https://asurocket.org) is a rocket propulsion research and development student organization at Arizona State University.
+
+### Boston Aquarium Society
+
+The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby. 
