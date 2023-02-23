@@ -2816,4 +2816,103 @@ https://github.com/drud/ddev
 
 ### Boston Aquarium Society
 
-The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby. 
+The [Boston Aquarium Society](https://bostonaquariumsociety.org/), founded in 1916, is one of the oldest aquarium hobbyist club in the United States and is dedicated to increasing both knowledge and interest in the aquarium hobby.
+
+### SS Rule Snippet
+[SS Rule Snippet](https://github.com/hackl0us/ss-rule-snippet) provides domain name diversion rule lists and JavaScripts for common proxy tools to assist users in diverting network traffic to achieve the best web browsing experience, and can unlock some iOS system functional restrictions.
+
+### Surgio
+[Surgio](https://surgio.js.org) is a tool for easily managing proxy rules and endpoints.
+
+### Crown Engine
+
+[Crown](https://crownengine.org) is a general purpose and data-driven game engine, written in orthodox C++ with a minimalistic and data-oriented design philosophy in mind.
+
+### MPI Forum
+
+The [MPI Forum](https://mpi-forum.org) is the standardization forum for the Message Passing Interface (MPI), one of the most used methods of communication in High Performance Computing (HPC) applications. The MPI Forum includes members from industry, academia, and laboratories from around the world who gather to update the MPI Standard in ways to add exciting new features to support future HPC work.
+
+### Workstation config
+
+This is a open source tool that installs and configures several software apps in workstations and supports multiple linux distributions (Debian/Ubuntu based distros, Fedora and Arch based distros) [https://github.com/osmollo/my_workstation](https://github.com/osmollo/my_workstation)
+
+### gorkscrew
+
+This is a fork of [corkscrew](https://github.com/bryanpkc/corkscrew) developed in GO for tunneling SSH traffic through HTTP proxies. Like **corkscrew**, supports proxy authentication (basic auth) but includes kerberos authentication. [https://github.com/osmollo/gorkscrew](https://github.com/osmollo/gorkscrew)
+
+### Tekton
+
+[Tekton](https://tekton.dev/) is a powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premise systems.
+
+### Skytils
+
+[Skytils](https://skytils.gg) develops Minecraft utility features designed to improve quality of life. For example, [SkytilsMod](https://github.com/Skytils/SkytilsMod) provides critical open-source modifications for the MMORPG Hypixel Skyblock as an alternative to paid options.
+
+### Bioconda
+
+The [Bioconda project](https://bioconda.github.io) packages life science related software for the package manager conda. It let's you install thousands of software packages related to biomedical research with ease, and has an active community with hundreds of contributors and millions of downloads.
+
+### holidays-jp
+
+[holidays-jp](https://holidays-jp.github.io/) is API service to get Japanese national holidays data. <https://github.com/holidays-jp>
+
+### Cloud Native Computing Foundation (CNCF)
+
+[CNCF](https://www.cncf.io/) is the open source, vendor-neutral hub of cloud native computing, hosting projects like Kubernetes and Prometheus to make cloud native universal and sustainable.
+
+### OpenJS Foundation
+
+[OpenJSF](https://openjsf.org/) is host to projects like [jQuery](https://jquery.com/), Grunt, and QUnit.
+
+### Dockle
+
+[Dockle](https://github.com/goodwithtech/dockle) is a container image linter for security. Dockle helps you build best-practice docker images.
+
+### EnvBoyX
+
+[EnvBoyX](https://github.com/yakumo-saki/EnvBoyX) is an open source environment monitor program for Arduino. Supports multiple sensors.
+
+### Bitcoin Address Validator
+
+PHP package to validate legacy, segwit, native segwit (bech32) and taproot Bitcoin addresses
+https://github.com/kielabokkie/bitcoin-address-validator
+
+### Kabootar
+With [Kabootar](https://staging.kabootar.potatokitty.me/), now you can share all your files with your friends and family in a jiffy. Using Kabootar's peer-to-peer framework, we can now share files securely and privately without the need for any third-party servers. Kabootar is cross-platform and works on any device without any downloads. Kabootar uses WebRTC to transfer files.
+
+### Gensosenkyo
+[Gensosenkyo](https://election.suikoden.info/) is a popularity vote event for game characters held by volunteers. In conducting the event, we are developing OSS to collect tweets and creating a Web API to return information about game productions. These have been improved a little each time the event is held. cf. https://github.com/true-runes
+
+### Rucksack
+Rucksack is a CLI tool written in Rust that can backup and maintain passwords from remote services (file store is encrypted, and sensitive records in the filestore are also encrypted). It also supports exporting files for use by services for importing. It can manage passwords, service credentials, cert files, and asymmetric crypto files (public/private keys). 
+https://github.com/oxur/rucksack
+
+### Nova Labs
+
+[Nova Labs](https://www.nova-labs.org/whatwedo) is a community makerspace based in Fairfax VA, USA. Nova Labs is home to a large collaborative workshop, in addition to [many open source projects](https://github.com/orgs/nova-labs/repositories?q=&type=all&language=&sort=stargazers). Nova Labs [hosts events](https://www.nova-labs.org/calendar) including community meetups and various classes.
+
+Nova Labs, Inc. is a 501(c)(3) nonprofit organization, EIN 45-3796580.
+
+### Open Programmable Infrastructure
+
+OPI is focused on utilizing  open software and standards, as well as frameworks and toolkits, to allow for the rapid adoption and use of DPUs/IPUs. The OPI Project is both hardware and software companies coming together to establish and nurture an ecosystem to support these solutions. It “seeks to help define the architecture and frameworks for the DPU and IPU software stacks that can be applied to any vendor’s hardware offerings. The OPI Project also aims to foster a rich open source application ecosystem, leveraging existing open source projects, such as DPDK, SPDK, OvS, P4, etc., as appropriate.”
+https://opiproject.org
+
+### Komitet Społeczny Kronika Polskiej Demosceny (Polish Demoscene Chronicles)
+The “[Polish Demoscene Chronicles](https://kskpd.pl/en)” works closely with demoscene groups, cultural organizations, and researchers focusing on digital culture and art.
+https://github.com/Kronika-Polskiej-Demosceny
+
+### OATS Center
+The [Open Agricultural Technologies and Systems Center](https://oatscenter.org) at [Purdue University](https://purdue.edu) works to enhance agricultural innovation in the areas of sensing, control, logistics, analytics, and data management via the catalyzing effects of open source technologies and educational outreach. Our mission leverages and creates new open source technologies. Some examples are:
+https://github.com/oats-center, https://github.com/oada, https://github.com/trellisfw, https://github.com/openatk
+
+### Project QWERTY
+[Project QWERTY](https://projectqwerty.com) is a free therapy website for people with aphasia. It targets spelling and typing with the option of accessing everyday words via the pre-programmed categories or by creating custom categories.
+
+Aphasia is a neurological disorder and communication disability which can affect talking, understanding, reading, writing and numeracy. Causes for aphasia include stroke, brain tumour or brain injury. It can have a significant impact on all areas of a person's quality of life.
+
+For more details about Project QWERTY, see [https://projectqwerty.com/about](https://projectqwerty.com/about).
+
+### Pillow
+Pillow is the imaging library for Python.
+https://pillow.readthedocs.io
