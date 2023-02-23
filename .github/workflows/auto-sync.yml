@@ -39,4 +39,4 @@ jobs:
         with:
           git-author-email: ${{ secrets.AUTOSYNCHRO_CI_EMAIL }}
           git-author-name: ${{ secrets.AUTOSYNCHRO_CI_NAME }}
-          workings-repository: 1Password/1password-teams-open-source
+          working-repository: 1Password/1password-teams-open-source
