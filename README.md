@@ -2916,3 +2916,82 @@ For more details about Project QWERTY, see [https://projectqwerty.com/about](htt
 ### Pillow
 Pillow is the imaging library for Python.
 https://pillow.readthedocs.io
+
+### PaiGram
+
+[PaiGram](https://github.com/PaiGramTeam/PaiGram) is a Telegram robot project that can assist people in looking for information about Genshin Impact.
+
+### Dent
+As a Linux Foundation project, DENT utilizes the Linux Kernel, Switchdev, and other Linux based projects as the basis for building a new standardized network operating system without abstractions or overhead. All underlying infrastructure — including ASIC and Silicon for networking and datapath — is treated equally; while existing abstractions, APIs, drivers, low-level overhead, and other open software are simplified. DENT unites silicon vendors, ODMs, SIs, OEMs, and end users across all verticals to enable the transition to disaggregated networks.
+
+For more details visit [DENT] (https://dent.dev).
+
+### FINOS
+The Fintech Open Source Foundation (FINOS) is an independent 501(c)(6) nonprofit organization - part of Linux Foundation - whose purpose is to accelerate collaboration and innovation in financial services through the adoption of open source software, standards and best practices.
+
+We’re a diverse community of developers, financial services and technology companies large and small. Over 30 Member organizations comprising 300+ contributors developing within 75 open-source repositories.
+
+For more details visit [finos.org](https://finos.org).
+
+## PyTorch
+
+PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella.
+
+https://pytorch.org/
+
+### Normal-OJ
+Online Judge maintained by Computer Science Department, National Taiwan Normal University
+
+https://noj.tw
+
+### SvChatGPT
+[SVGPT](https://github.com/vuhai16/SVGPT) is a chat configuration server using ChatGPT
+
+### Dglobal
+Dglobal is an open source community that is working to create technologies that help people in their daily lives. We work in the field of biomedicine, AI and web programming. We have also just opened our blog where we publish content related to science and technology.[Dglobal] (https://dglobal.dev)
+
+### PlayCover
+PlayCover allows you to run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support.
+https://playcover.io
+
+### Les 4 Sources
+We are a third-place located in Belgium with open source and open knowledge at the core of our projects. We build Claudy, an open source software to manage bookings, reservations and finances for places and collectives like ours.
+https://www.les4sources.be
+
+### Loadability
+[Loadability](https://github.com/julianschiavo/Loadability) offers an advanced networking and caching library for Swift hat allows you to effortlessly implement a custom networking and/or caching stack in your app, with native support for Combine and SwiftUI.
+
+### ArkoWrapper
+[ArkoWrapper](https://github.com/ArkoClub/ArkoWrapper) is a wrapper for python iterators, it adds magic methods to your python iterators to have a style like in Rust along with other methods, and any operation on the iterator will not corrupt the data in the iterator.
+
+### DigitalPlat
+A global non-profit organization that supports open source and community development and explores innovative projects
+
+[DigitalPlat](https://www.digitalplat.org)
+
+### ShortNotes
+Small meetup group of college where we create shortnotes of different college curriculum subjects for future students
+[shortnotes](https://shortnotes.github.io)
+
+### LinkScape
+[LinkScape](https://linkscape.hackclub.com)  is a Chinese student-led nonprofit that support students to make their own OSS
+
+### napari
+A multidimensional image viewer for Python.  
+https://napari.org
+
+### react-confirm
+Open source React dialog component library.
+
+[react-confirm](https://github.com/haradakunihiko/react-confirm)
+
+### PYONEPASSWORD
+A Python API to sign into and query a 1Password account using the op command
+[pyonepassword](https://github.com/zcutlip/pyonepassword)
+
+### sdr-trunk
+[sdr-trunk](https://github.com/Gibby/sdr-trunk)
+A container that uses [trunk-recorder](https://github.com/robotastic/trunk-recorder) along with a SDR(software defined radio) to record calls on trunked and conventional radio systems. A web interface is included from [trunk-player](https://github.com/ScanOC/trunk-player).
+Support for streaming to https://www.broadcastify.com/ is also included.
+We stream to - https://www.broadcastify.com/listen/feed/30028
+
